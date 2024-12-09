@@ -1,6 +1,4 @@
-module.exports = {
-    assets: ['./node_modules/react-native-vector-icons/Fonts'],
-  };
+export const assets = ['./node_modules/react-native-vector-icons/Fonts'];
 
 
 
